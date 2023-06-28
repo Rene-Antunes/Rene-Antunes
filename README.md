@@ -21,7 +21,8 @@
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Desenvolvedor Back-End a um pouco mais de um ano, sou apaixonado pelo que faço,
-### sempre busco melhorar minhas skill🔥. Meu foco é sempre manter o alto nível ### de desenvolvimento seja em projetos pequenos seja em grandes independente da ### tecnologia. Vamos resolver problemas💪! 
+### sempre busco melhorar minhas skill🔥. Meu foco é sempre manter o alto nível 
+### de desenvolvimento seja em projetos pequenos seja em grandes independente da ### tecnologia. Vamos resolver problemas💪! 
 
 
 ## Projetos Atuais:
