@@ -22,7 +22,7 @@
 
  Desenvolvedor Back-End a um pouco mais de um ano, sou apaixonado pelo que faço,
  sempre busco melhorar minhas skill🔥. Meu foco é sempre manter o alto nível 
- de desenvolvimento seja em projetos pequenos seja em grandes independente da 
+ de desenvolvimento seja em projetos pequenos seja em grandes, independente da 
  tecnologia. Vamos resolver problemas💪! 
 
 
