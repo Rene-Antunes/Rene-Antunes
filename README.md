@@ -26,4 +26,4 @@
 ## Projetos Atuais:
 
 - [DeliveryFood-API](https://github.com/Rene-Antunes/delivery-API)
-- [restaraunt-API](https://github.com/Rene-Antunes/restaraunt-API)
+- [restaurant-API](https://github.com/Rene-Antunes/restaraunt-API)
