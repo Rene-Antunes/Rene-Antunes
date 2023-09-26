@@ -27,4 +27,3 @@
 
 - [DeliveryFood-API](https://github.com/Rene-Antunes/delivery-API)
 - [restaurant-API](https://github.com/Rene-Antunes/restaraunt-API)
-- [baraoDasJoias E-commerce](https://github.com/Rene-Antunes/baraoDasJoias-E-commerce)
