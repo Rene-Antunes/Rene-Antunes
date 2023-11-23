@@ -1,11 +1,11 @@
-### Olá! Sou Renê Antunes, tudo bem? 👋
-### Seja bem vindo ao meu GitHub!
+### Hello! I'm Renê Antunes, how are you?👋
+### Welcome to my GitHub!
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rene-antunes-ladeira-dev/)
 
 
-### Tecnologias que uso:
+### Technologies I use:
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -17,13 +17,12 @@
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
- Desenvolvedor Back-End a dois anos, sou apaixonado pelo que faço,
- sempre busco melhorar minhas skill🔥. Meu foco é sempre manter o alto nível 
- de desenvolvimento seja em projetos pequenos seja em grandes, independente da 
- tecnologia. Vamos resolver problemas💪! 
+ Backend Developer for two years, I'm passionate about what I do, always seeking to improve my skills🔥. 
+ My focus is always to maintain a high level of development, whether in small or large projects, 
+ regardless of the technology. Let's solve problems💪!
 
 
-## Projetos Atuais:
+## Current Projects:
 
 - [DeliveryFood-API](https://github.com/Rene-Antunes/delivery-API)
 - [restaurant-API](https://github.com/Rene-Antunes/restaraunt-API)
